@@ -1,0 +1,26 @@
+{
+  "name": "angular-tree",
+  "version": "1.0.0",
+  "description": "angular tree",
+  "main": "angular.treeview.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "start": "light-server -s . -p 9090 -w './lib/*.js ./example/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellisonLou/angular.treeview.git"
+  },
+  "author": "ellisonLou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellisonLou/angular.treeview/issues"
+  },
+  "homepage": "https://github.com/ellisonLou/angular.treeview#readme",
+  "dependencies": {
+    "font-awesome": "4.7.0",
+    "light-server": "2.0.2"
+  }
+}
