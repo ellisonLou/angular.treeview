@@ -21,6 +21,7 @@
   "homepage": "https://github.com/ellisonLou/angular.treeview#readme",
   "dependencies": {
     "font-awesome": "4.7.0",
-    "light-server": "2.0.2"
+    "light-server": "2.0.2",
+    "lodash": "^4.17.4"
   }
 }
